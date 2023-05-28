@@ -1,0 +1,183 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.logo{
+  font-size: 40px;
+  font-weight: 600;
+  color: #4A4A4A;
+}
+.main-menu li{
+  padding: 0px 14px;
+}
+.main-menu a{
+  font-size: 18px;
+  color: #777;
+  font-weight: 400;
+  line-height: 27px;
+}
+.s-item {
+  max-height: 640px;
+  
+}
+.s-item img{
+  height: 100%;
+  -o-object-fit: cover;
+  filter: brightness(0.5);
+}
+.carousel-caption {
+  padding-bottom: 8rem;
+}
+.carousel-caption h5{
+  font-weight: 600;
+  font-size: 65px;
+  line-height: 85px;
+}
+.carousel-caption p{
+  line-height: 30px;
+  font-size: 18px;
+  color:#F4F4F4;
+  font-weight: 400;
+  padding: 0px 100px;
+}
+.c-tittle {
+  font-size: 25px;
+  font-weight: 600;
+  color: #4A4A4A;
+  line-height: 37.5px;
+}
+.c-des{
+  font-size: 18px;
+  color: #777777;
+}
+.section-tittle {
+  text-align: left;
+  width: 100%;
+}
+.section-tittle h2 {
+   font-size: 48px;
+   font-weight: 600;
+   color: #1D1D1D;
+   line-height: 60px;
+   padding: 0px 300px;
+}
+.section-tittle p {
+   color: #777777;
+   padding: 0px 317px;
+   line-height: 30px;
+   margin-bottom: 40px;
+}
+.course-list {
+  padding:50px 0px;
+}
+.e-learn-content {
+  background-color: #F4FAFD;
+}
+.e-learn-content h3 {
+   font-size: 45px;
+   color: #1D1D1D;
+   font-weight: 600;
+   padding: 0px 59px 0px 0px;
+   line-height: 60px;
+}
+.Institute-qty span {
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 60px;
+}
+.Institute-qty h4 {
+  font-size: 20px;
+  color: #777777;
+}
+.read-m {
+    width: 140px;
+    padding: 8px 0px;
+    background-color: #289BDE;
+}
+.register-bg {
+   background-color: #289BDE;
+   padding: 45px 0px;
+   margin-bottom: 70px;
+   margin-top: 70px;
+}
+.register-con {
+  color: #fff;
+  padding-left: 100px;
+}
+.register-con h2 {
+  font-weight: 600;
+  font-size: 45px;
+
+}
+.register-con p {
+  color: #F4F4F4;
+  padding: 0px 261px 0px 0px;
+}
+.rg-btn {
+  background-color: #fff;
+  color: #289BDE;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px 30px;
+}
+.team-title {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  color: #4A4A4A;
+}
+.team-text {
+  color: #777777;
+  font-size: 16px;
+
+}
+.card-img, .card-img-bottom, .card-img-top {
+    width: 100%;
+    height: 18rem;
+
+}
+.faq-area {
+  margin-top: 70px;
+}
+.partner-area .section-tittle{
+  margin: 30px 0px;
+}
+.partner-area .section-tittle h2 {
+  padding: 0;
+}
+.partner-area img {
+  width: 100%;
+  height: auto;
+}
+.footer-area {
+  background-color: #161616;
+}
+.f-logo h2 {
+  font-size: 40px;
+  color: #fff;
+  font-weight: 600;
+}
+.footer-area {
+  padding: 100px 0px;
+}
+.footer-area address {
+  font-size: 16px;
+  font-weight: 400;
+  color:#E8E8E8;
+}
+.footer-area p {
+  font-size: 15px;
+  color:#E8E8E8;
+}
+.f-social li {
+  list-style: none;
+  display: inline-block;
+}
+.f-social li a{
+  background-color: #242424;
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 90px;
+  font-size: 22px;
+}
